@@ -48,4 +48,4 @@ mindennapi munkájukat a kereskedésben.
 
 ## 7. Igényelt üzleti folyamatok
 ---
-![Image](https://github.com/utassydenis/AFP2021_1_K0800_Csapat4/blob/main/pictures/funkspec- igényelt üzleti folyamatok.png)
+![Image](https://github.com/utassydenis/AFP2021_1_K0800_Csapat4/blob/main/pictures/funkspec-%20ig%C3%A9nyelt%20%C3%BCzleti%20folyamatok.jpg)
