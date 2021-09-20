@@ -25,3 +25,11 @@ kelljen adni, hiszen csak úgy tudják beazonosítani az adott terméket. Emelet
 bonyolult az oldal, hogy az egy gyengébb számítógépen is megfelelően működjön lassú internetkapcsolattal.
 Ezen okokból kifolyólag megkértek minket, hogy csináljuk meg nekik a vágyott weboldalt, ami megkönnyíti
 mindennapi munkájukat a kereskedésben.
+
+## 6. Jelenlegi üzleti folyamatok modellje
+---
+![Image](https://github.com/utassydenis/AFP2021_1_K0800_Csapat4/blob/main/pictures/funkspec - jelenlegi üzleti folyamatok.jpg)
+
+## 7. Igényelt üzleti folyamatok
+---
+![Image](https://github.com/utassydenis/AFP2021_1_K0800_Csapat4/blob/main/pictures/funkspec- igényelt üzleti folyamatok.png)
