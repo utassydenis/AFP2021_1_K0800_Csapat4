@@ -44,7 +44,7 @@ mindennapi munkájukat a kereskedésben.
 
 ## 6. Jelenlegi üzleti folyamatok modellje
 ---
-![Image](https://github.com/utassydenis/AFP2021_1_K0800_Csapat4/blob/main/pictures/funkspec - jelenlegi üzleti folyamatok.jpg)
+![Image](https://github.com/utassydenis/AFP2021_1_K0800_Csapat4/blob/main/pictures/funkspec%20-%20jelenlegi%20%C3%BCzleti%20folyamatok.jpg)
 
 ## 7. Igényelt üzleti folyamatok
 ---
