@@ -7,13 +7,13 @@ dolgozók számára. A weboldalon a raktáron lévő áru listázható, módosí
 árunak van megnevezése, kategóriája (zöldség/gyümölcs), mennyisége, mennyiségi egysége és ára. Új áru hozzáadásakor
 ezeket meg kell adni.
 
-## Jelenlegi helyzet
+## 2. Jelenlegi helyzet
 ---
 Kereskedésünk friss zöldségekkel és gyümölcsökkel várja vásárlóinkat a hét minden napján. Kínálatunkban megtalálható
 minden féle zöldség és gyümölcs. A vásárlás személyesen történik az üzletünkben. A raktárkészlet nyilvántartása jelenleg
 egy füzetben történik, amit az üzlet irodájában vezetünk. Ebben a füzetben minden eladás és áru érkezés vezetve van.
 
-## Vágyálom rendszer
+## 3. Vágyálom rendszer
 ---
 A kínálat bővítése és a munkánk megkönnyítése érdekében szeretnénk a kereskedésünknek egy könnyen kezelhető, átlátható
 weboldalt, ami megkönnyíti munkánkat. Célunk, hogy a raktárkészletet ne egy füzetben vezessük, hanem egy adatbázis
@@ -38,3 +38,8 @@ A raktár jelenlegi üzleti folyamata papíralapon mükodik.
 5. Áru adatainak módosítása: Adminisztrátor jogosultsággal belépés -> áru adatainak módosítása
 6. Áru törlése: Adminisztrátor jogosultsággal belépés -> áru törlése
 7. Rendelés leadása: Regisztrált felhasználó belépés -> áru listázása -> Áru fajtájának megadása, mennyiség megadása -> Rendelés leadása -> Visszajelzés
+
+## 7. Fogalomtár
+---
+**Áru**: Az áru minden, ami szükségletet elégít ki és adásvétel tárgyává válhat. Tárgyi formájuk szerint. Termék. Szolgáltatás.
+**Raktárkészlet**: Vállalkozási tevékenységet közvetlenül vagy közvetve szolgáló eszközök, amelyek vagy egyetlen tevékenységi folyamatban vesznek részt és a tevékenység folyamán eredeti megjelenési alakjukat elvesztik, vagy több tevékenységi folyamatban vesznek részt, de a törvény szerint azokat a készletek közé kell besorolni, vagy egy éven belül használódnak el.
