@@ -21,3 +21,12 @@ tárolja egy weboldalon keresztül, amelynek használata nem okoz gondot egyik d
 a gyümölcs külön kategóriában legyen, hogy könnyebben lehessen dolgozni az adatokkal. A termékek megnevezés szerint
 legyenek betűrendben rendezve. Új áru felvitele, módosítása és törlése egyértelmű legyen. Legyen opció az összes termék
 listázására.
+
+## Jelenlegi Üzleti Folyamatok
+
+A raktár jelenlegi üzleti folyamata papíralapon mükodik.
+
+1. Termékek nyilvántartása: Megnevezés, kategória, mennyiség, mennyiségi egység, ár
+2. Új termékek beszerzése: beszerzési részleg feladata. Rendelés elküldése -> Érkezett mennyiség feljegyzése formanyomtatványra -> Nyilvántartási füzetbe feljegyzés, árváltozás esetén az ár korrigálása.
+3. Termékek eladása: Eladási osztály végzi. Rendelés formanyomtatványon, telefonon, személyesen. Rendelés feljegyzése -> Eladás -> Levonni a füzetben levő mennyiségből.
+
