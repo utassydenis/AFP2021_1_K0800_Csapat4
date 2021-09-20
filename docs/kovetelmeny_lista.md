@@ -13,3 +13,9 @@ ID | Név | Kifejtés
     7 | Termék módosítás | Az adatbázisban szereplő termékeket illetően a felhasználó képes lesz modosítást végrehajtani a mennyiséget vagy a nevet illetően.
     8 | Felhasználói fiók módosítása | A bejelentkezett felhasználó képes az adatait módosítani.
     9 | Felhasználó törlése | Az adatabázisból törlésre kerül a felhasználó minden adata.
+    
+    
+| ID  | Név |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
