@@ -76,3 +76,14 @@ visszaigozálst kap a vásárlásáról.
 ## 7. Igényelt üzleti folyamatok
 ---
 ![Image](https://github.com/utassydenis/AFP2021_1_K0800_Csapat4/blob/main/pictures/funkspec-%20ig%C3%A9nyelt%20%C3%BCzleti%20folyamatok.jpg)
+
+## Képernyő tervek
+
+### Főoldal bejelentkezés előtt
+![image](https://github.com/utassydenis/AFP2021_1_K0800_Csapat4/blob/main/pictures/F%C5%91oldal.drawio.png)
+### Főoldal bejelentkezés után
+![image](https://github.com/utassydenis/AFP2021_1_K0800_Csapat4/blob/main/pictures/Bejelentkezett%20K%C3%A9perny%C5%91.drawio.png)
+### Regisztrációs oldal
+![image](https://github.com/utassydenis/AFP2021_1_K0800_Csapat4/blob/main/pictures/Regiszt%C3%A1ci%C3%B3%20k%C3%A9perny%C5%91.drawio.png)
+### Felhasználó adatmódosítás és fiók törlés oldal
+![image](https://github.com/utassydenis/AFP2021_1_K0800_Csapat4/blob/main/pictures/Felhaszn%C3%A1l%C3%B3i%20fi%C3%B3k.drawio.png)
