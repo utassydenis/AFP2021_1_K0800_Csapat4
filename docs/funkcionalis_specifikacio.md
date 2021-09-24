@@ -44,7 +44,7 @@ mindennapi munkájukat a kereskedésben.
 ## 4. Használati eset
 ---
 
-###LEÍRÁS###
+### LEÍRÁS
 
 A használati diagram alapvetően 5 aktorral operál melyek nem mások mint:
     - Vásárló 
