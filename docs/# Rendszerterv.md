@@ -11,3 +11,7 @@ saját fiókuk elkészítésére, így tárolhatják kedvenc termékeiket illetv
 
 ## 2. Projekterv
 ---
+
+## 3. Üzleti folyamatok modellje
+---
+![Image](https://github.com/utassydenis/AFP2021_1_K0800_Csapat4/blob/main/pictures/ig%C3%A9nyelt_%C3%BCzleti_folyamatok.png)
