@@ -41,6 +41,33 @@ mindennapi munkájukat a kereskedésben.
 | 8  | Felhasználói fiók módosítása  | A bejelentkezett felhasználó képes az adatait módosítani. |
 | 9  | Felhasználó törlése  | Az adatabázisból törlésre kerül a felhasználó minden adata. |
 
+## 4. Használati eset
+---
+
+###LEÍRÁS###
+
+A használati diagram alapvetően 5 aktorral operál melyek nem mások mint:
+    - Vásárló 
+    - Adatbázis 
+    - Eladó 
+    - Jogosultság kezelő 
+    - Tranzakció lebonyolító eszköz 
+
+**Vásárló**: A sikeres belépés után képes listázni termékeket, hozzáadni és eltávolítani a kosarából és végbevinni a vásárlást.
+**Eladó**: Képes bejelentkezni, fiókokat testreszabni, hozzáadni/eltávolítani régi/új terméket. A sikeres vásárlásért felel.
+
+
+Egy specifikus használati eset leírása:
+
+A vásárló felkeresi üzletünket, ahol saját adataival képes fiók létrehozni magának, melyben 
+további vásárlások esetén be tud jelentkezni és eltárolni adatait az adatbázis segítségével.
+Bejelentkezés után lehetősége nyílik megtekinteni az elérhető termékeket, illetve segítséget tud
+kérni az eladótól. Amint megtalálta azon termékeket amelyekre szüksége van, hozzáadhatja őket a kosárhpz
+Amint végzett a válogatással, a vásárló a rendszerherz/eladóhoz fordul, hogy véglegesítse a vásárlást
+a tranzakció lebonyolító eszköz segítségével. Amint ez sikeresen végbe ment, a vásárló valamilyen 
+visszaigozálst kap a vásárlásáról.
+
+![Image](https://github.com/utassydenis/AFP2021_1_K0800_Csapat4/blob/main/pictures/UseCaseDiagram.png)
 
 ## 6. Jelenlegi üzleti folyamatok modellje
 ---
