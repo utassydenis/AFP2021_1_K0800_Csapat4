@@ -88,7 +88,7 @@ visszaigozálst kap a vásárlásáról.
 ### Felhasználó adatmódosítás és fiók törlés oldal
 ![image](https://github.com/utassydenis/AFP2021_1_K0800_Csapat4/blob/main/pictures/Felhaszn%C3%A1l%C3%B3i%20fi%C3%B3k.drawio.png)
 
-## Forgatókönyv
+## 8. Forgatókönyv
 ---
 Egy hétfői napon friss áru érkezett a zöldség-gyümölcs kereskedésbe. A dolgozónak (legyen most Kati) ilyenkor ezt dokumentálnia
 kell a füzetbe, hogy miből mennyi érkezett. Kati szorgosan el is kezdi írni a megnevezést, mennyiséget, mennyiségi egységet és
