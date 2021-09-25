@@ -87,3 +87,14 @@ visszaigozálst kap a vásárlásáról.
 ![image](https://github.com/utassydenis/AFP2021_1_K0800_Csapat4/blob/main/pictures/Regiszt%C3%A1ci%C3%B3%20k%C3%A9perny%C5%91.drawio.png)
 ### Felhasználó adatmódosítás és fiók törlés oldal
 ![image](https://github.com/utassydenis/AFP2021_1_K0800_Csapat4/blob/main/pictures/Felhaszn%C3%A1l%C3%B3i%20fi%C3%B3k.drawio.png)
+
+## Forgatókönyv
+---
+Egy hétfői napon friss áru érkezett a zöldség-gyümölcs kereskedésbe. A dolgozónak (legyen most Kati) ilyenkor ezt dokumentálnia
+kell a füzetbe, hogy miből mennyi érkezett. Kati szorgosan el is kezdi írni a megnevezést, mennyiséget, mennyiségi egységet és
+árat, de figyelnie kell arra, hogy olvashatóan írjon, mivel rajta kívül más is dolgozik az üzletben. Miután befejezte a raktár
+feltöltését főnöke közölte vele, hogy hamarosan számítógépen kell vezetnie az információkat a raktárról. Kati nagyon boldog volt,
+hiszen számítógépen gyorsabban tud gépelni és arra sem kell figyelnie, hogy írása olvasható legyen. A következő áru érkezésekor
+már ezzel dolgozott, és fele annyi idő alatt végzett. Szerinte sokkal egyszerűbb lett az árú felvitele és módosítása is, mert
+áthúzások helyett csak módosítani kell a mennyiséget az adatbázisban. Ha egy adott áruról nincs tisztában, hogy van-e a raktáron,
+a keresés funkcióval könnyen és gyorsan megbizonyosodhat róla. Összességében Kati, a többi dolgozó és a főnök elégedett.
