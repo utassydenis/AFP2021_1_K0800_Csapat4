@@ -82,4 +82,6 @@ internetkapcsolattal.
     - Internetkapcsolat
 
 ![Image](https://github.com/utassydenis/AFP2021_1_K0800_Csapat4/blob/main/pictures/Rendszerterv%20-%20fizikai%20k%C3%B6rnyezet.jpg)
-    
+
+## Telepítési terv
+    Az adatbázis interneten keresztül érhető el. A webcím megadása után a főoldal jelenik meg. Itt a felhasználó megtekintheti az adatbázis tartalmát, amiben kereshet is, illetve lehetősége van a bejelentkezésre és regisztrálásra is. Az oldal bármely böngészőn keresztül elérhető, eszköztől függetlenül. A telepítéskor szükséges a szerverszolgáltatás az adatbázis kezeléshez.
