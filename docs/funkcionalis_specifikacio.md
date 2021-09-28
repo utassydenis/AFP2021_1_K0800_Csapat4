@@ -98,3 +98,11 @@ hiszen számítógépen gyorsabban tud gépelni és arra sem kell figyelnie, hog
 már ezzel dolgozott, és fele annyi idő alatt végzett. Szerinte sokkal egyszerűbb lett az árú felvitele és módosítása is, mert
 áthúzások helyett csak módosítani kell a mennyiséget az adatbázisban. Ha egy adott áruról nincs tisztában, hogy van-e a raktáron,
 a keresés funkcióval könnyen és gyorsan megbizonyosodhat róla. Összességében Kati, a többi dolgozó és a főnök elégedett.
+
+## 9. Fogalomtár
+---
+**Áru**: Az áru minden, ami szükségletet elégít ki és adásvétel tárgyává válhat. Tárgyi formájuk szerint. Termék. Szolgáltatás.
+**Raktárkészlet**: Vállalkozási tevékenységet közvetlenül vagy közvetve szolgáló eszközök, amelyek vagy egyetlen tevékenységi folyamatban vesznek részt és a tevékenység folyamán eredeti megjelenési alakjukat elvesztik, vagy több tevékenységi folyamatban vesznek részt, de a törvény szerint azokat a készletek közé kell besorolni, vagy egy éven belül használódnak el.
+**Weboldal**: Egy olyan számítógépes dokumentum, mely megfelel a World Wide Web számára, és alkalmas arra, hogy egy webböngésző megjelenítse. A webböngésző a weblapot monitoron vagy mobil eszközön jeleníti meg. A weboldal általában a dokumentum látható elemeit foglalja magába, de a weblap szó jelentheti magát a számítógépen tárolt fájlt is, melyet általában HTML vagy más hasonló leíró nyelven írtak meg.
+**Adatbázis**: Az adatbázis azonos minőségű (jellemzőjű), többnyire strukturált adatok összessége, amelyet egy azok tárolására lekérdezésére és szerkesztésére alkalmas szoftvereszköz kezel.
+**Tranzakció**: Tranzakciós költségek alatt azokat a pénzben felmerült kiadásokat értjük, amelyek egy adott ügylet lebonyolításakor felmerülnek.

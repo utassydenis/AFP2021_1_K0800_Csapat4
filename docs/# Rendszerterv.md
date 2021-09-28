@@ -82,4 +82,31 @@ internetkapcsolattal.
     - Internetkapcsolat
 
 ![Image](https://github.com/utassydenis/AFP2021_1_K0800_Csapat4/blob/main/pictures/Rendszerterv%20-%20fizikai%20k%C3%B6rnyezet.jpg)
+
+## Telepítési terv
+    Az adatbázis interneten keresztül érhető el. A webcím megadása után a főoldal jelenik meg. Itt a felhasználó megtekintheti az adatbázis tartalmát, amiben kereshet is, illetve lehetősége van a bejelentkezésre és regisztrálásra is. Az oldal bármely böngészőn keresztül elérhető, eszköztől függetlenül. A telepítéskor szükséges a szerverszolgáltatás az adatbázis kezeléshez.
+## Karbantartási terv
+    Az adatbázis karbantartás időszakos lesz. Az adatbázis használatot megnehezítő, blokkoló hibákat a lehető leghamarabb ki kell javítani.
+    Ha a felhasználó ilyen hibával találkozik, lehetősége van hibabejelentést küldeni a "Hiba Bejelentése" gombon keresztül. Ezt a jelentést csak a fejlesztői csapat tagjai fogják látni.
+    A gomb megnyomása után, a felhasználó át lesz irányítva egy másik oldalra, ahol,  a hiba kódját (ha van), egy rövid leírással kell küldenie és lehetősége van leírni mi vezetett a hibáig.
+    Az adatvesztés kiküszöbölésére, a módosítások elvégzése előtt , egy biztonsági másolatot kell készíteni.
+
+## 9. Adatbázis terv
+---
+![Image](https://github.com/utassydenis/AFP2021_1_K0800_Csapat4/blob/main/pictures/Rendszerterv%20-%20Adatb%C3%A1zis%20terv.jpg)
+
+## 10. Implementációs terv
+---
+Web: A Webes felület főként HTML, CSS, és Javascript nyelven fog készülni. Ezeket a technológiákat amennyire csak lehet külön fájlokba írva készítjük, és úgy fogjuk egymáshoz csatolni a jobb átláthatóság, könnyebb változtathatóság, és könnyebb bővítés érdekében. A weblapon megjelenítjük és alkalmazzuk az adatbázis kezelést ezen belül is a CRUD műveletek (Creat (létrehozás), Read (olvasás), Update (módosítás), Delete (törlés)).
+
+## 11. Tesztterv
+---
+## Tesztelési eljárások
+
+**Unit teszt:** A metódusok működésének ellenőrzése céljából unit teszteket kell írni. A metódusoknak át kell mennie a teszteken, hogy késznek tekinthetők legyenek.
+**Alfa teszt:** Az alfa tesztet a fejlesztők végzik. A alfa teszt célja, hogy teszteljük a már meglévő funkciókat, hogy azok az elvártnak megfelelően működnek-e. A teszt akkor tekinthető sikeresnek, ha különböző webes felületeken minden funkció megfelelően működik.
+
+## Tesztelendő funkciók
+**Backend Service:** Képesnek kell lennie több klienst egyidőben kiszolgálni. Képesnek kell lennie, az adatbázisban műveleteket végezni (hozzáadni, törölni, módosítani).
+
     
