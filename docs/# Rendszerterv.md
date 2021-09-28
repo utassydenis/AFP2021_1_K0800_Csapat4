@@ -91,6 +91,10 @@ internetkapcsolattal.
     A gomb megnyomása után, a felhasználó át lesz irányítva egy másik oldalra, ahol,  a hiba kódját (ha van), egy rövid leírással kell küldenie és lehetősége van leírni mi vezetett a hibáig.
     Az adatvesztés kiküszöbölésére, a módosítások elvégzése előtt , egy biztonsági másolatot kell készíteni.
 
+## 9. Adatbázis terv
+---
+![Image](https://github.com/utassydenis/AFP2021_1_K0800_Csapat4/blob/main/pictures/Rendszerterv%20-%20Adatb%C3%A1zis%20terv.jpg)
+
 ## 10. Implementációs terv
 ---
 Web: A Webes felület főként HTML, CSS, és Javascript nyelven fog készülni. Ezeket a technológiákat amennyire csak lehet külön fájlokba írva készítjük, és úgy fogjuk egymáshoz csatolni a jobb átláthatóság, könnyebb változtathatóság, és könnyebb bővítés érdekében. A weblapon megjelenítjük és alkalmazzuk az adatbázis kezelést ezen belül is a CRUD műveletek (Creat (létrehozás), Read (olvasás), Update (módosítás), Delete (törlés)).
