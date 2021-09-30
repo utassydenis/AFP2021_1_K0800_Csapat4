@@ -2,6 +2,12 @@
 
 // alapvető konfiguráció, itt lesznek a hivatkozások
 
+define('DB_TYPE','mysql');
+define('DB_NAME','zoldseg_gyumolcs_kereskedes');
+define('DB_HOST','localhost');
+define('DB_USER','zoldseg_gyumolcs_kereskedes');
+define('DB_PASS','mA0Iz8BdpHyf61k')
+
 define('CHARSET','utf-8');
 define('TITLE','Veggies and Fruits Shop');
 define('CSS',['style,css','style2.css']); //Amikor a frontendet csinalod, "rakd be" ide a fileok nevet
@@ -18,4 +24,4 @@ define('CONTENT_DIR',PROTECTED_DIR.'content/');
 
 define('START_CONTENT','main');
 
-define('BASE_URL','http://localhost/afp2021_1_K0800_csapat4/');
+define('BASE_URL','http://localhost/zoldseg_gyumolcs_kereskedes/');
