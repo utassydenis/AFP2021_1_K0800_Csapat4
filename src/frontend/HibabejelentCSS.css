@@ -1,0 +1,55 @@
+.nav ul{
+    list-style: none;
+    background-color: grey;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+.nav li{
+    float:right;
+    display: inline-block;
+}
+.nav a{
+    text-decoration: none;
+    color: black;
+    width: 300px;
+    display: block;
+    padding: 15px;
+    font-size: 20px;
+}
+.nav a:hover:not(.hiba){
+    background-color: dimgrey;
+}
+.hiba{
+    background-color: indianred;
+}
+
+.hiba:hover{
+    background-color: red;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+}
+.formtable{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+}
+td{
+    text-align: left;
+    height: 50px;
+    vertical-align: center;
+}
+.empty{
+    width: 50px;
+}
+.submit{
+    text-align: center;
+}
+td{
+    text-align: center;
+}
