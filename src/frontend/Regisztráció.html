@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Regisztráció</title>
+    <link rel="stylesheet" href="RegisztrációCSS.css">
+</head>
+<body>
+<div class="nav">
+    <ul>
+        <li><a class="hiba" href="HibaJelent.html">Hibabejelentés</a></li>
+        <li><a href="Bejelentkezés.html">Bejelentkezés</a></li>
+        <li><a href="#">Főoldal</a></li>
+        <li><a href="#">Adatbázis</a></li>
+    </ul>
+</div>
+<form>
+    <table class="formtable">
+
+        <tr>
+            <td><label for="nevtxtb">Név:</label></td>
+            <td class="empty"></td>
+            <td><input type="text" id="nevtxtb" minlength="5" required></td>
+        </tr>
+        <tr>
+            <td><label for="fhnevtxtb">Felhasználónév:</label></td>
+            <td class="empty"></td>
+            <td><input type="text" id="fhnevtxtb" minlength="5" required></td>
+        </tr>
+        <tr>
+            <td><label for="emailtxtb">E-mail:</label></td>
+            <td class="empty"></td>
+            <td><input type="email" id="emailtxtb" placeholder="abcd@valami.hu" required></td>
+        </tr>
+        <tr>
+            <td><label for="pwdtxtb">Jelszó:</label></td>
+            <td class="empty"></td>
+            <td><input type="password" id="pwdtxtb" minlength="5" required></td>
+        </tr>
+        <tr>
+            <td colspan="3" class="LoginButton"><button type="submit">Regisztráció</button></td>
+        </tr>
+    </table>
+</form>
+</body>
+</html>
