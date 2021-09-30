@@ -24,4 +24,5 @@ define('CONTENT_DIR',PROTECTED_DIR.'content/');
 
 define('START_CONTENT','main');
 
+
 define('BASE_URL','http://localhost/zoldseg_gyumolcs_kereskedes/');
