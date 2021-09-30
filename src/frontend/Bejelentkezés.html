@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bejelentkezés</title>
+    <link rel="stylesheet" href="BejelentkezesCSS.css">
+</head>
+<body>
+<div class="nav">
+    <ul>
+        <li><a class="hiba" href="HibaJelent.html">Hibabejelentés</a></li>
+        <li><a href="Regisztráció.html">Regisztráció</a></li>
+        <li><a href="#">Főoldal</a></li>
+        <li><a href="#">Adatbázis</a></li>
+    </ul>
+</div>
+<form>
+    <table class="formtable">
+        <tr>
+            <td><label for="fhnevtxtb">Felhasználónév:</label></td>
+            <td class="empty"></td>
+            <td><input type="text" id="fhnevtxtb" minlength="5" required></td>
+        </tr>
+        <tr>
+            <td><label for="pwdtxtb">Jelszó:</label></td>
+            <td class="empty"></td>
+            <td><input type="password" id="pwdtxtb" minlength="5" required></td>
+        </tr>
+        <tr>
+            <td colspan="3" class="submit"><button type="submit">Bejelentkezés</button></td>
+        </tr>
+    </table>
+</form>
+</body>
+</html>
