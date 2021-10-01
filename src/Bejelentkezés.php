@@ -12,7 +12,7 @@
     } ?>
 </head>
 <body>
-    <?php include PROTECTED_DIR . 'menu.php';?>
+    <?php include PROTECTED_DIR . 'BejelentkezésMenu.php';?>
     <?php include PROTECTED_DIR . 'BejelentkezésContent.php';?>
 </body>
 </html>
