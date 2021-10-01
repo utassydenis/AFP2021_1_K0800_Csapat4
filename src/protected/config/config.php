@@ -10,7 +10,7 @@ define('DB_PASS','mA0Iz8BdpHyf61k')
 
 define('CHARSET','utf-8');
 define('TITLE','Veggies and Fruits Shop');
-define('CSS',['style,css','style2.css','BejelentkezésCSS.css']); //Amikor a frontendet csinalod, "rakd be" ide a fileok nevet
+define('CSS',['style,css','style2.css','BejelentkezésCSS.css','RegisztrációCSS.css']); //Amikor a frontendet csinalod, "rakd be" ide a fileok nevet
 
 // konstansok
 
