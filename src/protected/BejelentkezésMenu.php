@@ -1,12 +1,12 @@
 <?php
 $menu = [
     [
-        'href' => 'HibaJelent.html',
+        'href' => 'HibaJelent.php',
         'title' => 'Hibabejelentés',
         'extra' => ['class' => 'hiba']
     ],
     [
-        'href' => 'Regisztracio.html',
+        'href' => 'Regisztracio.php',
         'title' => 'Regisztráció'
     ],
     ['href' => '#',
