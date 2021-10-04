@@ -1,0 +1,5 @@
+# ha nem létezik kezdőállomány letiltjuk a listázást
+Options -Indexes
+
+# felüldefiniálom a kezdőoldalt
+DirectoryIndex start.php

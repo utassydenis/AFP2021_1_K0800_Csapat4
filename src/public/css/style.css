@@ -1,0 +1,50 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2021. jún. 8., 18:05:20
+    Author     : Milán
+*/
+
+body{
+    background-color: blue;
+    margin: auto;
+    width: 80%;
+}
+
+h1, h2{
+    text-align: center;
+    color: white;
+}
+
+label{
+    color: white;
+}
+
+p{
+    text-align: justify;
+    color: white;
+}
+
+h3, h4{
+    color: white;
+    text-align: left;
+}
+
+table{
+    color: white;
+    text-align: center;
+    min-width: 50%;
+    max-width: 80%;
+}
+
+tr, td{
+    color: white;
+    text-align: center;
+}
+
+a{
+    color: white;
+}
