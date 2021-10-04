@@ -13,16 +13,4 @@ mennyisegi_egyseg varchar(15) not null,
 ar int not null
 );
 
-create table Felhasznalok(
-id int primary key not null auto_increment,
-tipusa varchar(10) not null,
-vezeteknev varchar(30) not null,
-keresztnev varchar(30) not null,
-felhasznalonev varchar(30) not null,
-email varchar(30) not null,
-jelszo varchar(30) not null
-);
-
 insert into Raktarkeszlet(termeknev, kategoria, mennyiseg, mennyisegi_egyseg, ar) values("vöröshagyma", "zöldség", 500, "kg", 150);
-
-insert into Felhasznalok(tipusa, vezeteknev, keresztnev, felhasznalonev, email, jelszo) values("dolgozó", "Kiss", "Katalin", "kkati", "kisskati@gmail.com", "KissKati82");
