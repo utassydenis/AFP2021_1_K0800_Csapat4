@@ -5,4 +5,4 @@
 | 3  | Termékek törlése  | A termék törlése gombra kattintva eltávolítható a feleslegessé vált termék az adatbázisból. | Sikeres | Nem feltétlen mindig id alapján kellene törölni. | Suhaj Milán | 2021.10.04 |
 | 4  | Termékek listázása  | Az adatbázisból visszakapjuk az összes eddig felvitt adatot| Sikeres | Kerülhetne a listázás új oldalra. | Suhaj Milán | 2021.10.04 |
 | 5  | Termék keresés  | Egy keresés blokkban a megadott szöveg után képes visszadni a kivánt rekordot az adatbázisból. | Sikeres | - | Suhaj Milán | 2021.10.04 |
-| 6  | Termék módosítás  | A kivánt termék módosítása adatok megadásával | Sikertelen | Adatbázis elérés, config probléma | Suhaj Milán | 2021.10.04 |
+| 6  | Termék módosítás  | A kivánt termék módosítása adatok megadásával | Sikertelen | A Módosít gomb nem működik | Suhaj Milán | 2021.10.04 |
