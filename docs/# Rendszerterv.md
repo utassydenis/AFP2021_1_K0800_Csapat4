@@ -98,6 +98,8 @@ Tesztelés dátuma: Év.Hónap.Nap
 
 | Folyamat száma  | Funkció | Tesztelési folyamat leírása | Végkifejlet | Komment | Teszter Neve | Időpont|
 
+Például: | 1 | Oldal megjelenése | Az oldal betöltődik és sikeresen kezelhető | Sikeres | - | Suhaj Milán | 2021.10.04 |
+
 ## Tesztelendő funkciók
 **Backend Service:** Képesnek kell lennie több klienst egyidőben kiszolgálni. Képesnek kell lennie, az adatbázisban műveleteket végezni (hozzáadni, törölni, módosítani).
 
