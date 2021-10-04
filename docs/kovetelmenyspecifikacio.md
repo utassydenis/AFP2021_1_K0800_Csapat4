@@ -34,26 +34,21 @@ A raktár jelenlegi üzleti folyamata papíralapon mükodik.
 1. Online megjelenés
 2. Teljes raktárkészlet listázása
 3. Raktárkészlet elemei közötti keresés
-4. Áru felvitele adatbázisba: Adminisztrátor jogosultsággal belépés -> áru felvitele
-5. Áru adatainak módosítása: Adminisztrátor jogosultsággal belépés -> áru adatainak módosítása
-6. Áru törlése: Adminisztrátor jogosultsággal belépés -> áru törlése
-7. Rendelés leadása: Regisztrált felhasználó belépés -> áru listázása -> Áru fajtájának megadása, mennyiség megadása -> Rendelés leadása -> Visszajelzés
+4. Áru felvitele adatbázisba: Áru felvitele
+5. Áru adatainak módosítása: Áru adatainak módosítása
+6. Áru törlése: Áru törlése
+7. Rendelés leadása:  Áru listázása -> Áru fajtájának megadása, mennyiség megadása -> Rendelés leadása -> Visszajelzés
 
 ## Követelmény lista
 ---
     
 | ID  | Név | Kifejtés |
 | ------------- | ------------- | ------------- |
-| 1  | Regisztráció  | Jelenlegi vagy jövendőbeli dolgozó regisztárlása a rendszerbe, ahol saját felhasználónév alatt tudja vezetni a műszakot. |
-| 2  | Bejelentkezés  | Az éppen dolgozó munkatárs képes belépni az adatbázisba, ezáltal eladást és esetlegi árubeérkezést rögzíteni. |
-| 3  | Termékek hozzáadása  | A felhasználók hozzáadhatják azon új termékeket amelyek eddig nem szerepeltek az adatbázisban. Például szezonális termékek. |
-| 4  | Termékek törlése  | Azon termékeket amelyek bármely hibát tartalmaznak a hozzáadás során, képesek lesznek eltávolítani a felhasználók. |
-| 5  | Termékek listázása  | Ezen funkció segítségével a felhasználók képesek lesznek megjeleníteni ABC sorrendben a termékeket név szerint. |
-| 6  | Termék keresés  | Különböző szűrőkkel és szöveges keresővel tud a felhasználó keresni. |
-| 7  | Termék módosítás  | Az adatbázisban szereplő termékeket illetően a felhasználó képes lesz modosítást végrehajtani a mennyiséget vagy a nevet illetően. |
-| 8  | Felhasználói fiók módosítása  | A bejelentkezett felhasználó képes az adatait módosítani. |
-| 9  | Felhasználó törlése  | Az adatabázisból törlésre kerül a felhasználó minden adata. |
-
+| 1  | Termékek hozzáadása  | A felhasználók hozzáadhatják azon új termékeket amelyek eddig nem szerepeltek az adatbázisban. Például szezonális termékek. |
+| 2  | Termékek törlése  | Azon termékeket amelyek bármely hibát tartalmaznak a hozzáadás során, képesek lesznek eltávolítani a felhasználók. |
+| 3  | Termékek listázása  | Ezen funkció segítségével a felhasználók képesek lesznek megjeleníteni ABC sorrendben a termékeket név szerint. |
+| 4  | Termék keresés  | Különböző szűrőkkel és szöveges keresővel tud a felhasználó keresni. |
+| 5  | Termék módosítás  | Az adatbázisban szereplő termékeket illetően a felhasználó képes lesz modosítást végrehajtani a mennyiséget vagy a nevet illetően. |
 
 ## 7. Fogalomtár
 ---

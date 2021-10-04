@@ -6,9 +6,7 @@
 A rendszer célja, hogy a felhasználó/vásárló egyszerűen és megfelelő segítséggel tudjon különböző termékekből válogatni,
 vásárolni. A weboldal és az adatbázis megvalósításával elérhetővé szeretnénk tenni a legnagyobb kényelmet, nyomonkövethetőséget
 és a zökkenőmentes vásárlást. A vásárlóink könnyedén listázhatják elérhető gyümölcs és zöldségkínálatunkat,
-emellett láthatják a közelgő új termékeket is. Mivel az adatbázis közreműködésével képesek lesznek a felhasználók
-saját fiókuk elkészítésére, így tárolhatják kedvenc termékeiket illetve megtekinthetik a múltbéli vásárlásokat.
-
+emellett láthatják a közelgő új termékeket is.
 ## 2. Projekterv
 ---
 
@@ -20,8 +18,6 @@ saját fiókuk elkészítésére, így tárolhatják kedvenc termékeiket illetv
 ---
 ### Funkcionális követelmények:
     - Dolgozó adatainak tárolása
-    - Bejelentkezés
-    - Regisztráció
     - Áru adatainak tárolása
     - Teljes raktárkészlet listázása
     - Raktárkészlet módosítása
@@ -35,15 +31,9 @@ saját fiókuk elkészítésére, így tárolhatják kedvenc termékeiket illetv
 ## 5. Funkcionális terv
 ---
 ### Rendszerszereplők:
-    - Admin (főnök)
     - Dolgozó
 
 ### Rendszerhasználati esetek és lefutásaik:
-* Admin:
-    - Belépve teljes hozzáférése van a rendszerhez
-    - A felhasználói adatokat látják, változtathatják
-    - Felhasználó hozzáadására, törlésére van lehetőségük
-    - Felhasználói adatok módosítása
 
 * Dolgozó:
     - Be tud jelentkezni
@@ -53,9 +43,6 @@ saját fiókuk elkészítésére, így tárolhatják kedvenc termékeiket illetv
     - Áru listázása
 
 ### Menü-hierarchiák:
-* Bejelentkezés:
-    - Bejelentkezés
-    - Regisztráció
 
 * Main menu:
     - Új áru felvitele
@@ -84,7 +71,7 @@ internetkapcsolattal.
 ![Image](https://github.com/utassydenis/AFP2021_1_K0800_Csapat4/blob/main/pictures/Rendszerterv%20-%20fizikai%20k%C3%B6rnyezet.jpg)
 
 ## Telepítési terv
-    Az adatbázis interneten keresztül érhető el. A webcím megadása után a főoldal jelenik meg. Itt a felhasználó megtekintheti az adatbázis tartalmát, amiben kereshet is, illetve lehetősége van a bejelentkezésre és regisztrálásra is. Az oldal bármely böngészőn keresztül elérhető, eszköztől függetlenül. A telepítéskor szükséges a szerverszolgáltatás az adatbázis kezeléshez.
+    Az adatbázis interneten keresztül érhető el. A webcím megadása után a főoldal jelenik meg. Itt a felhasználó megtekintheti az adatbázis tartalmát, amiben kereshet is. Az oldal bármely böngészőn keresztül elérhető, eszköztől függetlenül. A telepítéskor szükséges a szerverszolgáltatás az adatbázis kezeléshez.
 ## Karbantartási terv
     Az adatbázis karbantartás időszakos lesz. Az adatbázis használatot megnehezítő, blokkoló hibákat a lehető leghamarabb ki kell javítani.
     Ha a felhasználó ilyen hibával találkozik, lehetősége van hibabejelentést küldeni a "Hiba Bejelentése" gombon keresztül. Ezt a jelentést csak a fejlesztői csapat tagjai fogják látni.
