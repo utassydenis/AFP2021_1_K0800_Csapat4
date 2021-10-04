@@ -9,7 +9,7 @@
             'title' => 'Listázás'
         ],
         [
-            'href' => BASE_URL.'start.php?E=kereses&M=kereses',
+            'href' => BASE_URL.'start.php?E=kereses&M=keres',
             'title' => 'Keresés'
         ],
         [
