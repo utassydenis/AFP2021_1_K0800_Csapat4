@@ -1,9 +1,9 @@
 <?php
-$public_functions = ['kereses'];
+$public_functions = ['keres'];
 
 require_once CORE_DIR.'database_manager.php';
 
-function kereses(){
+function keres(){
     if(!filter_has_var(INPUT_POST, 'submitkeres') ||
             filter_input(INPUT_POST, 'submitkeres', FILTER_VALIDATE_INT) != 1){
         require VIEWS_DIR.'kereses/keres.php';
@@ -21,7 +21,6 @@ function kereses(){
 
 function lista()
 {
-    
 }
 
 ?>
