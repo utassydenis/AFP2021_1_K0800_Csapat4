@@ -5,12 +5,12 @@
 define('DB_TYPE','mysql');
 define('DB_NAME','zoldseg_gyumolcs_kereskedes');
 define('DB_HOST','localhost');
-define('DB_USER','zoldseg_gyumolcs_kereskedes');
-define('DB_PASS','mA0Iz8BdpHyf61k')
+define('DB_USER','Zoldseg_Gyumolcs_Kereskedes');
+define('DB_PASS','mA0Iz8BdpHyf61k(');
 
 define('CHARSET','utf-8');
 define('TITLE','Veggies and Fruits Shop');
-define('CSS',['style,css','style2.css']); //Amikor a frontendet csinalod, "rakd be" ide a fileok nevet
+define('CSS',['style.css', 'menu_style.css']); //Amikor a frontendet csinalod, "rakd be" ide a fileok nevet
 
 // konstansok
 
