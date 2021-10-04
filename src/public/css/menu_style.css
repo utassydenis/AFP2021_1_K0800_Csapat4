@@ -1,0 +1,57 @@
+.parent {
+	display: block;
+	position: relative;
+        float:left;
+	line-height: 30px;
+	background-color: lightskyblue;border-right:white 1px solid;
+        margin: auto;
+}
+
+.parent a{
+	margin: 10px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.parent:hover > ul {
+	display:block;
+	position:absolute;
+}
+
+.child {
+	display: none;
+}	
+
+.child li {
+	background-color: cyan;
+	line-height: 30px;
+	border-bottom:white 1px solid;
+	border-right:white 1px solid; 
+	width:100%;
+}
+
+.child li a{
+	color: #000000;
+}
+
+ul{
+	list-style: none;
+	margin: auto;
+	padding: 0px;
+	min-width:10em;
+        color: white;
+}
+
+ul ul ul{
+	left: 100%;
+	top: 0;
+	margin-left:1px;
+}
+
+li:hover {
+	background-color: skyblue;
+}
+.parent li:hover {
+	background-color: skyblue;
+}
+
