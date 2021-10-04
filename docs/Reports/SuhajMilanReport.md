@@ -11,3 +11,5 @@
 | 9  | Termékek hozzáadása  | Termék hozzáadása során meg kell adni a termék nevét, kategóriát, mennyiséget, mennyiségi egységet és az árat. | Sikeres | Másik böngésző. |Suhaj Milán | 2021.10.04
 | 10  | Termékek törlése  | A termék törlése gombra kattintva eltávolítható a feleslegessé vált termék az adatbázisból. | Sikeres | Másik böngésző. | Suhaj Milán | 2021.10.04 |
 | 11  | Termékek listázása  | Az adatbázisból visszakapjuk az összes eddig felvitt adatot| Sikeres | Másik böngésző. | Suhaj Milán | 2021.10.04 |
+| 12  | Termék keresés  | Egy keresés blokkban a megadott szöveg után képes visszadni a kivánt rekordot az adatbázisból. | Sikeres | Másik böngésző. | Suhaj Milán | 2021.10.04 |
+| 13  | Termék módosítás  | A kivánt termék módosítása adatok megadásával | Sikertelen | A Módosít gomb nem működik másik böngészővel sem. | Suhaj Milán | 2021.10.04 |
