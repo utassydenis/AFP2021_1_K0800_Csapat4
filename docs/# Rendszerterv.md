@@ -90,7 +90,6 @@ Web: A Webes felület főként HTML, CSS, és Javascript nyelven fog készülni.
 ---
 ## Tesztelési eljárások
 
-**Unit teszt:** A metódusok működésének ellenőrzése céljából unit teszteket kell írni. A metódusoknak át kell mennie a teszteken, hogy késznek tekinthetők legyenek.
 **Alfa teszt:** Az alfa tesztet a fejlesztők végzik. A alfa teszt célja, hogy teszteljük a már meglévő funkciókat, hogy azok az elvártnak megfelelően működnek-e. A teszt akkor tekinthető sikeresnek, ha különböző webes felületeken minden funkció megfelelően működik.
 
 ## Tesztelendő funkciók
