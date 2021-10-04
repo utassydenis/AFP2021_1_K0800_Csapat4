@@ -31,16 +31,11 @@ mindennapi munkájukat a kereskedésben.
     
 | ID  | Név | Kifejtés |
 | ------------- | ------------- | ------------- |
-| 1  | Regisztráció  | Jelenlegi vagy jövendőbeli dolgozó regisztárlása a rendszerbe, ahol saját felhasználónév alatt tudja vezetni a műszakot. |
-| 2  | Bejelentkezés  | Az éppen dolgozó munkatárs képes belépni az adatbázisba, ezáltal eladást és esetlegi árubeérkezést rögzíteni. |
-| 3  | Termékek hozzáadása  | A felhasználók hozzáadhatják azon új termékeket amelyek eddig nem szerepeltek az adatbázisban. Például szezonális termékek. |
-| 4  | Termékek törlése  | Azon termékeket amelyek bármely hibát tartalmaznak a hozzáadás során, képesek lesznek eltávolítani a felhasználók. |
-| 5  | Termékek listázása  | Ezen funkció segítségével a felhasználók képesek lesznek megjeleníteni ABC sorrendben a termékeket név szerint. |
-| 6  | Termék keresés  | Különböző szűrőkkel és szöveges keresővel tud a felhasználó keresni. |
-| 7  | Termék módosítás  | Az adatbázisban szereplő termékeket illetően a felhasználó képes lesz modosítást végrehajtani a mennyiséget vagy a nevet illetően. |
-| 8  | Felhasználói fiók módosítása  | A bejelentkezett felhasználó képes az adatait módosítani. |
-| 9  | Felhasználó törlése  | Az adatabázisból törlésre kerül a felhasználó minden adata. |
-
+| 1  | Termékek hozzáadása  | A felhasználók hozzáadhatják azon új termékeket amelyek eddig nem szerepeltek az adatbázisban. Például szezonális termékek. |
+| 2  | Termékek törlése  | Azon termékeket amelyek bármely hibát tartalmaznak a hozzáadás során, képesek lesznek eltávolítani a felhasználók. |
+| 3  | Termékek listázása  | Ezen funkció segítségével a felhasználók képesek lesznek megjeleníteni ABC sorrendben a termékeket név szerint. |
+| 4  | Termék keresés  | Különböző szűrőkkel és szöveges keresővel tud a felhasználó keresni. |
+| 5  | Termék módosítás  | Az adatbázisban szereplő termékeket illetően a felhasználó képes lesz modosítást végrehajtani a mennyiséget vagy a nevet illetően. |
 ## 4. Használati eset
 ---
 
@@ -53,15 +48,13 @@ A használati diagram alapvetően 5 aktorral operál melyek nem mások mint:
     - Jogosultság kezelő 
     - Tranzakció lebonyolító eszköz 
 
-**Vásárló**: A sikeres belépés után képes listázni termékeket, hozzáadni és eltávolítani a kosarából és végbevinni a vásárlást.
-**Eladó**: Képes bejelentkezni, fiókokat testreszabni, hozzáadni/eltávolítani régi/új terméket. A sikeres vásárlásért felel.
+**Vásárló**: Képes listázni termékeket, hozzáadni és eltávolítani a kosarából és végbevinni a vásárlást.
+**Eladó**: Képes hozzáadni/eltávolítani régi/új terméket. A sikeres vásárlásért felel.
 
 
 Egy specifikus használati eset leírása:
 
-A vásárló felkeresi üzletünket, ahol saját adataival képes fiók létrehozni magának, melyben 
-további vásárlások esetén be tud jelentkezni és eltárolni adatait az adatbázis segítségével.
-Bejelentkezés után lehetősége nyílik megtekinteni az elérhető termékeket, illetve segítséget tud
+A vásárló felkeresi üzletünket, lehetősége nyílik megtekinteni az elérhető termékeket, illetve segítséget tud
 kérni az eladótól. Amint megtalálta azon termékeket amelyekre szüksége van, hozzáadhatja őket a kosárhpz
 Amint végzett a válogatással, a vásárló a rendszerherz/eladóhoz fordul, hogy véglegesítse a vásárlást
 a tranzakció lebonyolító eszköz segítségével. Amint ez sikeresen végbe ment, a vásárló valamilyen 
