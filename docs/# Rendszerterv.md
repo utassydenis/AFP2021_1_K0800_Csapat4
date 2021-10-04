@@ -92,6 +92,12 @@ Web: A Webes felület főként HTML, CSS, és Javascript nyelven fog készülni.
 
 **Alfa teszt:** Az alfa tesztet a fejlesztők végzik. A alfa teszt célja, hogy teszteljük a már meglévő funkciókat, hogy azok az elvártnak megfelelően működnek-e. A teszt akkor tekinthető sikeresnek, ha különböző webes felületeken minden funkció megfelelően működik.
 
+Tesztelő: Vezetéknév Keresztnév
+
+Tesztelés dátuma: Év.Hónap.Nap
+
+| Folyamat száma  | Funkció | Tesztelési folyamat leírása | Végkifejlet | Komment | Teszter Neve | Időpont|
+
 ## Tesztelendő funkciók
 **Backend Service:** Képesnek kell lennie több klienst egyidőben kiszolgálni. Képesnek kell lennie, az adatbázisban műveleteket végezni (hozzáadni, törölni, módosítani).
 
